@@ -4,3 +4,5 @@ This project recreates the COVID-19 growth trajectory plots using publicly avail
 
 ### Environment
 
+Use 'pip install -r requirement.txt' to install the reqiurements into your python environment.
+
